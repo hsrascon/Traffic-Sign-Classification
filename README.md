@@ -1,5 +1,5 @@
 # Traffic-Sign-Classification
-Classify traffic signs using a deep neural network 
+Classify traffic signs using a deep neural network. Please refer to `Traffic_Sign_Classifier.ipynb` for a step-by-step walkthrough and discussion about the project. 
 
 
 Overview
